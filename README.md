@@ -1,6 +1,7 @@
 <h1 align='center'>
     <img src='src/assets/lucs.png' width='200'/>
     <p>Jogo da Memoria</p>
+    <p>Acesse : https://jogo-da-memoria-ochre.vercel.app/</p>
 </h1>
 
 ##Sobre / About 📒
