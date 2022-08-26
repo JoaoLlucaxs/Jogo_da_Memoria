@@ -1,0 +1,37 @@
+.container_btn{
+    width: 200px;
+    height: 50px;
+    display: flex;
+    background-color:#4E007C;
+    border-radius: 10px;
+    opacity: 1;
+    transition: all ease .3s;
+    cursor: pointer;
+    color: #fff;
+    align-items: center;
+}
+.container_btn:hover{
+    background-color:#7806b9;
+}
+
+.icon_area{
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid #412153;
+    padding: 0 15px;
+}
+.icon img{
+    height: 20px;
+    color: #00e0a1;
+}
+.label{
+    height: inherit;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    padding: 0 20px;
+}

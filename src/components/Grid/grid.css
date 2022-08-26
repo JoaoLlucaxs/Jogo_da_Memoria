@@ -1,0 +1,14 @@
+
+.style-card{
+    width: 100px;
+    opacity: 1;
+    background-color: blueviolet;
+    box-shadow: 10px 0 10px 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.card_true{
+    width:100px;
+    background-color:#cccc;
+    border-radius: 10px;
+}
